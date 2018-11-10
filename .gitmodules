@@ -1,0 +1,7 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/hirosige/backend.book-me-instead
+
+[submodule "front"]
+	path = frontend
+	url = https://github.com/hirosige/frontend.book-me-instead
